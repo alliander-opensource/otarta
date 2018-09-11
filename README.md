@@ -1,3 +1,5 @@
+_Development continued at https://gitlab.com/eval/otarta_
+
 # Otarta
 
 An MQTT-client written in ClojureScript.
